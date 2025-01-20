@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=BlockDiagram.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=Cover.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=Microcontroller.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=Power Management.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=SensorBoard.SchDoc|SheetNumber=5
